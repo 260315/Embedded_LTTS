@@ -17,5 +17,6 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 
 #### ON
 ![ON](https://github.com/260315/Embedded_LTTS/blob/main/Simulations/HotSeat_Simulation_ON.gif)
+
 #### OFF
 ![OFF](https://github.com/260315/Embedded_LTTS/blob/main/Simulations/HotSeat_OFF.png)
