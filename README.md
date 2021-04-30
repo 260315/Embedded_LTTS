@@ -20,4 +20,5 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/33b715fa43ac47f4a411f7b29967e298)](https://app.codacy.com/gh/260315/Embedded_LTTS?utm_source=github.com&utm_medium=referral&utm_content=260315/Embedded_LTTS&utm_campaign=Badge_Grade_Settings)
 |[![Compile-Linux](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml)||
