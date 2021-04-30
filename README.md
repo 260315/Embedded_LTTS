@@ -22,4 +22,4 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-||||
+|[![Compile-Linux](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml)|||
