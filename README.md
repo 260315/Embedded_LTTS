@@ -1,6 +1,6 @@
 # Smart Temperature-Controlled Car Seat using Atmega328 
 
-### CI and Code Quality
+## CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a25838fe7a14340821f366ea409f1c4)](https://www.codacy.com/gh/260315/Embedded_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=260315/Embedded_LTTS&amp;utm_campaign=Badge_Grade)|
