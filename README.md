@@ -13,7 +13,7 @@ The thermal comfort for children and adults inside the car is a crucial issue to
 
 ### Simulation
 
-The Coding part of the application is written in C language in CODEBLOCKS IDE and the simulation of working product is shown in SimulIDE software. Below are the two images of application working while in On and Off conditions. 
+The Coding part of the application is written in C language in CodeBlocks IDE and the simulation of working product is shown in SimulIDE software. Below are the two images of application working while in On and Off conditions. 
 
 #### ON
 ![ON](https://github.com/260315/Embedded_LTTS/blob/main/Simulations/HotSeat_Simulation_ON.gif)
