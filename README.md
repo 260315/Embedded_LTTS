@@ -22,3 +22,4 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+||||
