@@ -28,7 +28,7 @@
 #define HEAT_ON !(PIND&(1<<PD4)) // Switch2 ON
 
 /**
- * Function Definitions
+ * Function Definition
  */
 
 /**
