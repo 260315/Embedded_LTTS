@@ -12,10 +12,10 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 Two images are shown below where in the 1st image shows the status of the simulation when the system is OFF and the second image shows the status of the system when it is ON. 
 
 #### ON
-![ON](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Simulation.gif)
+![ON]()
 
 #### OFF
-![OFF](https://github.com/hemanthasapu/embedded_systems_project_256889/blob/main/simulation/Simulation_OFF.PNG)
+![OFF]()
 
 
 
