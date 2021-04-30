@@ -9,7 +9,6 @@ src/act_3.c\
 src/act_4.c\
 HOTSeatApp.c\
 
-
 # All header file paths
 INC = -I inc
 
