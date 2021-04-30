@@ -1,11 +1,11 @@
 # Embedded_LTTS_PROJECT
 
-## CI and Code Quality
+### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260315/Embedded_LTTS/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6a25838fe7a14340821f366ea409f1c4)](https://www.codacy.com/gh/260315/Embedded_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=260315/Embedded_LTTS&amp;utm_campaign=Badge_Grade)|
 
-## Smart temperature-controlled car seat using thermoelectric devices 
+# Smart temperature-controlled car seat using thermoelectric devices 
 ![GitHub Logo](https://github.com/260315/Embedded_LTTS/blob/main/logo.png)
 ### Theory
 
@@ -17,7 +17,6 @@ The Coding part of the application is written in C language in CODEBLOCKS IDE an
 
 #### ON
 ![ON](https://github.com/260315/Embedded_LTTS/blob/main/Simulations/HotSeat_Simulation_ON.gif)
+
 #### OFF
 ![OFF](https://github.com/260315/Embedded_LTTS/blob/main/Simulations/HotSeat_OFF.png)
-
-
